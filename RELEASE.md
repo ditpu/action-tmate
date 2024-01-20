@@ -1,6 +1,6 @@
 # Development
 
-## Packaging
+## Package
 
 The GitHub Action relies on `lib/index.js` as the entrypoint. This entrypoint needs to be committed after every change. Use the following command to package the code into `lib/index.js`.
 
